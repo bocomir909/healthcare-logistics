@@ -8,7 +8,10 @@
   <artifactId>healthcare-logistics</artifactId>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>cutomer-service</module>
+    <module>equipment-service</module>
+    <module>technician-management-service</module>
+    <module>medical-test-service</module>
+    <module>customer-service</module>
     <module>equipment-service</module>
     <module>technician-management-service</module>
     <module>medical-test-service</module>

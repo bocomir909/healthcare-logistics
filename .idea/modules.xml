@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/equipment-service/equipment-service.iml" filepath="$PROJECT_DIR$/equipment-service/equipment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medical-test-service/medical-test-service.iml" filepath="$PROJECT_DIR$/medical-test-service/medical-test-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/technician-management-service/technician-management-service.iml" filepath="$PROJECT_DIR$/technician-management-service/technician-management-service.iml" />
+    </modules>
+  </component>
+</project>

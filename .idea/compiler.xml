@@ -7,10 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="technician-management-service" />
-        <module name="cutomer-service" />
+        <module name="customer-service" />
         <module name="medical-test-service" />
         <module name="equipment-service" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cutomer-service" target="1.7" />
+      <module name="equipment-service" target="17" />
+      <module name="medical-test-service" target="17" />
+      <module name="technician-management-service" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
