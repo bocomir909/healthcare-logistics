@@ -9,6 +9,9 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>customer-service</module>
+    <module>equipment-service</module>
+    <module>medical-test-service</module>
+    <module>technician-management-service</module>
   </modules>
   <packaging>pom</packaging>
 
