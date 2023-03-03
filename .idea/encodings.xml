@@ -5,9 +5,5 @@
     <file url="file://$PROJECT_DIR$/customer-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/equipment-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/equipment-service/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/medical-test-service/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/medical-test-service/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/technician-management-service/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/technician-management-service/src/main/resources" charset="UTF-8" />
   </component>
 </project>
